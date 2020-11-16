@@ -1,2 +1,3 @@
-# practica_git1
-Practica git 1
+## Sample Git Project
+
+The repo is beign used for test purposes only.
